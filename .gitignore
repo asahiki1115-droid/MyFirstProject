@@ -1,0 +1,6 @@
+# Compiled C++ program
+/main
+#macOS debugging files
+*.dSYM/
+#VS Code local settings
+.vscode/
